@@ -66,7 +66,7 @@ namespace Poker
         static List<brand> RandomLicensing()
         {
             List<brand> myCards = new List<brand>();//扑克牌集合
-            string[] strType = { "红桃", "黑桃", "梅花", "方块" };
+            string[] strType = { "♠", "♥", "♣", "♦" };
             string[] strNumber = { "A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K" };
             brand[] OtherCard = { new brand("大王", ""), new brand("小王", "") };
 
