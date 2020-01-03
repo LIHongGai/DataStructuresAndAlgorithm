@@ -37,22 +37,11 @@ namespace Poker
         {
             int a = 0;
 
-            switch(Type)
+            switch (Type)
             {
-                case "♦":
-                    a = 0;
-                    break;
-                case "♣":
-                    a = 13;
-                    break;
-                case "♥":
-                    a = 26;
-                    break;
-                case "♠":
-                    a = 39;
-                    break;
+
                 case "小王":
-                    a =53;
+                    a = 53;
                     break;
                 case "大王":
                     a = 54;
