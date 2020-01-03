@@ -27,7 +27,7 @@ namespace Poker
                 Console.WriteLine();
             }
 
-            Console.WriteLine("——————————发牌——————————");
+            Console.WriteLine("——————————-发牌-——————————");
             
             List<Add> listUser = new List<Add>() {  //牌手进场
             new Add("1"),

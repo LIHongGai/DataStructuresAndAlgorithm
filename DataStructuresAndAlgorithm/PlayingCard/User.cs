@@ -38,7 +38,7 @@ namespace Poker
                     strCards += ", " +listCard[i].Type+ listCard[i].Name;
                 }
             }
-            Console.WriteLine("\r\n—————————————————————————————————————————————————————————————————————————————————————————————————");
+            Console.WriteLine("\r\n———————————————————————————————————————————————————————————————————————————————————————————————");
             Console.Write("A{0}：", Name);
             Console.Write("有{0}张牌\r\n{1}\r\n", listCard.Count, strCards);
         }

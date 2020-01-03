@@ -62,7 +62,7 @@ namespace Poker
                 case "K":
                     a += 13;
                     break;
-             
+
                 default:
                     if (Name != "")
                     {
