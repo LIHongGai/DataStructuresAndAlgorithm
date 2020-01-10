@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtificialIntelligence", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingCard", "PlayingCard\PlayingCard.csproj", "{A0B16CB8-2048-43E2-9B3C-FCD3C69035AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageAge", "..\..\..\..\Downloads\AverageAge\AverageAge\AverageAge.csproj", "{E57AACB4-93B1-462E-976D-47115C89327C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageAge", "AverageAge\AverageAge.csproj", "{7426C423-CD69-4114-B3A9-235E195CE35D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{A0B16CB8-2048-43E2-9B3C-FCD3C69035AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0B16CB8-2048-43E2-9B3C-FCD3C69035AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0B16CB8-2048-43E2-9B3C-FCD3C69035AA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E57AACB4-93B1-462E-976D-47115C89327C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E57AACB4-93B1-462E-976D-47115C89327C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E57AACB4-93B1-462E-976D-47115C89327C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E57AACB4-93B1-462E-976D-47115C89327C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7426C423-CD69-4114-B3A9-235E195CE35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7426C423-CD69-4114-B3A9-235E195CE35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7426C423-CD69-4114-B3A9-235E195CE35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7426C423-CD69-4114-B3A9-235E195CE35D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
